@@ -43,7 +43,7 @@ The model is compiled using the Adam optimizer and categorical crossentropy loss
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License.  
 ```
 
-Feel free to modify any sections as needed, especially the repository URL and directory names!
+ 
